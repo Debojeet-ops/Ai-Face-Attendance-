@@ -160,5 +160,4 @@ python face_attendance.py
 
 <h4>Debojeet Adhikari
 | Passionate Python & AI Developer | Building AI-driven projects with OpenCV and Machine Learning </h4>
----
 
