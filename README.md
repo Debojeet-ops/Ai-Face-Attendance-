@@ -158,7 +158,7 @@ python face_attendance.py
 
 ## Author
 
-<h3>Debojeet Adhikari
-| Passionate Python & AI Developer | Building AI-driven projects with OpenCV and Machine Learning </h3>
+<h2>Debojeet Adhikari
+| Passionate Python & AI Developer | Building AI-driven projects with OpenCV and Machine Learning </h2>
 ---
 
