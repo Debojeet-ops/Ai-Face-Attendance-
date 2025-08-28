@@ -130,19 +130,19 @@ EmployeeID,Name,Timestamp
 102,Jane Smith,2025-08-28 10:33:01
 ```
 ---
-## Installation & Setup
-1️,Clone the Repository
+## 1.Installation & Setup
+Clone the Repository
 git clone https://github.com/Debojeet-ops/Face-Attendance-System.git
 cd Face-Attendance-System
 
-## 2️,Install Dependencies
+## 2️.Install Dependencies
 
 Make sure you have Python 3.7+ installed.
 Then install required libraries:
 
 pip install opencv-contrib-python numpy pyttsx3
 
-## 3️,Run the Program
+## 3️.Run the Program
 python face_attendance.py
 
 ---
